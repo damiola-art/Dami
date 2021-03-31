@@ -176,3 +176,6 @@ hr{
     line-height: 2.5rem;
 
 }
+.footer-link:hover{
+    color: #EAF6F6
+}
